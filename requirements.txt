@@ -1,0 +1,8 @@
+py2neo>=2021.0.0
+pyahocorasick>=1.4.0
+transformers>=4.36.0
+torch>=2.0.0
+flask>=2.0.0
+tqdm>=4.66.0
+requests>=2.31.0
+
